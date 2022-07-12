@@ -1,0 +1,6 @@
+[submodule "external/drogon"]
+	path = external/drogon
+	url = https://github.com/drogonframework/drogon.git
+[submodule "external/base64"]
+	path = external/base64
+	url = https://github.com/ReneNyffenegger/cpp-base64.git
